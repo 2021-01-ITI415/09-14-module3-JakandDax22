@@ -5,8 +5,8 @@
 /[Ll]ibrary/
 /[Tt]emp/
 /[Oo]bj/
-#/[B]uild/
-#/[B]uilds/
+/[B]uild/
+/[B]uilds/
 /[Ll]ogs/
 /[Mm]emoryCaptures/
 
